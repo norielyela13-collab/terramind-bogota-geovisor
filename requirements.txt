@@ -1,0 +1,11 @@
+# Python 3.10+ · probado en Colab con GPU T4
+numpy<2.0.0
+datasets>=2.18.0
+torch
+torchvision
+terratorch>=1.2.5
+pystac-client
+planetary-computer
+rasterio
+folium
+matplotlib
